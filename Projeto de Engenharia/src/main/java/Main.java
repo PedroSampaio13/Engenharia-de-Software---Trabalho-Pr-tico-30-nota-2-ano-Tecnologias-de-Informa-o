@@ -1,8 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
 
-        System.out.println(obterResultado(210));
-    }
 
     public static String obterResultado(int numero){
         String resultado = "";
@@ -34,5 +31,4 @@ public class Main {
             return resultado;
         }
     }
-    
 }
